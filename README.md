@@ -28,3 +28,6 @@
 
 ## 🔧 사용 방법
 1. 저장소 클론:
+```bash
+  https://github.com/DanbiAubrey/python_coding_test.git
+```
